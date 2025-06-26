@@ -1,4 +1,4 @@
-# Employee-Projects
+# Employee-Projects(changed in github)
 
 This repository contains SQL scripts for practicing table creation, data insertion, updates, filtering, and subqueries. It is intended to help understand SQL operations using real-time examples like employee and project data.
 

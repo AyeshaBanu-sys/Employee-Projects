@@ -17,4 +17,16 @@ This repository contains SQL scripts for practicing table creation, data inserti
   - Group By, Having
   - Subqueries
  
+### Table Name: EmployeeInfo
+
+| Column\Name | Data\Type    | Description               |
+|-------------|--------------|---------------------------|
+| E_id        | INT          | Employee ID (Primary Key) |
+| e_Names     | VARCHAR(40)  | Employee Name             |
+| e_Dept      | VARCHAR(30)  | Department                |
+| e_Salary    | INT          | Employee Salary           |
+| e_Age       | INT          | Employee Age              |
+| e_Loc       | VARCHAR(40)  | Employee Location         |
+
+ 
   

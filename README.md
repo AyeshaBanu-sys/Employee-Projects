@@ -17,16 +17,4 @@ This repository contains SQL scripts for practicing table creation, data inserti
   - Group By, Having
   - Subqueries
  
-  - EmployeeInfo Table
-| E_id | e_Names    | e_Dept | e_Salary | e_Age | e_Loc |
-|------|------------|--------|----------|-------|--------|
-| 1    | Ayesha     | QA     | 15500    | 23    | HYD    |
-| 2    | Shivani    | QA     | 15000    | 24    | KNR    |
-| 3    | Anusarika  | DEV    | 20000    | 25    | BPL    |
-| NULL | NULL       | NULL   | NULL     | NULL  | NULL   |
-
-- ProjectsInfo Table
-e_id  	project_name	    project_status
-1	      AutomationSuite  	Active
-2    	  RegressionPack	  Completed
-3  	    UATSupport	      Pending
+  

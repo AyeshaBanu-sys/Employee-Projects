@@ -35,4 +35,12 @@ This repository contains SQL scripts for practicing table creation, data inserti
 | 3    | Anusarika  | DEV    | 20000    | 25     | BPL  |
 | NULL | NULL       | NULL   | NULL     | NULL   | NULL |
 
+
+### Table Name: ProjectsInfo
+
+| Column Name    | Data Type     | Description           |
+|----------------|---------------|-----------------------|
+| e_id           | INT           | Employee ID (FK)      |
+| project_name   | VARCHAR(50)   | Name of the Project   |
+| project_status | VARCHAR(20)   | Status of the Project |
   

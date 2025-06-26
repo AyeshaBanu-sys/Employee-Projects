@@ -19,7 +19,7 @@ This repository contains SQL scripts for practicing table creation, data inserti
  
 ### Table Name: EmployeeInfo
 
-| Column\Name | Data\Type    | Description               |
+| ColumnName  | DataType     | Description               |
 |-------------|--------------|---------------------------|
 | E_id        | INT          | Employee ID (Primary Key) |
 | e_Names     | VARCHAR(40)  | Employee Name             |

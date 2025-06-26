@@ -45,7 +45,7 @@ This repository contains SQL scripts for practicing table creation, data inserti
 | project_status | VARCHAR(20)   | Status of the Project |
   
 | e_id | project_name     | project_status |
-+------+------------------+----------------+
+|------|------------------|----------------|
 | 1    | AutomationSuite  | Active         |
 | 2    | RegressionPack   | Completed      |
 | 3    | UATSupport       | Pending        |

@@ -28,5 +28,11 @@ This repository contains SQL scripts for practicing table creation, data inserti
 | e_Age       | INT          | Employee Age              |
 | e_Loc       | VARCHAR(40)  | Employee Location         |
 
- 
+| E_id | e_Names    | e_Dept | e_Salary | e_Age  | e_Loc|
+|------|------------|--------|----------|--------|------|
+| 1    | Ayesha     | QA     | 15500    | 23     | HYD  |
+| 2    | Shivani    | QA     | 15000    | 24     | KNR  |
+| 3    | Anusarika  | DEV    | 20000    | 25     | BPL  |
+| NULL | NULL       | NULL   | NULL     | NULL   | NULL |
+
   
